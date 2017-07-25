@@ -19,7 +19,12 @@ The projects listed here don't fit under the Learnings section above. They are m
 These are a list of resources that I find interesting in the Data Science space. There are definitely more comprehensive lists that can be found on-line and I am definitely not trying to create another one of those at the moment. 
 
 ### Newsletter
+Usually delivered once a week direct to your mailbox. Awesome time savers!
 
-* O'Reilly Newsletter http://www.oreilly.com/data/newsletter.html
-* Data Science Weekly Newsletter https://www.datascienceweekly.org/
-* SuperDataScience https://www.superdatascience.com/
+* [O'Reilly Newsletter](http://www.oreilly.com/data/newsletter.html)
+* [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
+* [SuperDataScience](https://www.superdatascience.com/)
+
+### Blogs
+
+### Podcasts
