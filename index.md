@@ -15,6 +15,8 @@ List of projects for work. Deliberately generalized to remove any potentially se
 
 This sections lists the trainings that I've participated in my Data Science journey. I will include any links if these trainings include any exercises that can be shared.
 
+* [Tutorials](https://github.com/azmimr/tutorials) The objective for me with these are to either a) have a quick introduction to a new topic or b) refresher on topics which I may not have touched in a while. What are uploaded are just my effors, not the full tutorials. The README will contain additional information including the original tutorial link if you are interested in trying them yourself.
+
 ## Personal Projects
 
 As someone who managed and delivered technical trainings for many years, I am aware how active learning is important in building and reinforcing competencies. The challenge in learning any discipline is to attempt problems outside of the sanitized environment of training. This is where you can push the boundaries of your understanding and discover the limitations of knowledge. This allows you to than seek new knowledge which allows to tackle even more complex or different problems. 
@@ -42,3 +44,4 @@ Usually delivered once a week direct to your mailbox. Awesome time savers!
 * [Official Kaggle Blog](http://blog.kaggle.com/)
 
 ### Podcasts
+* [Super Data Science Podcast](https://www.superdatascience.com/podcast/)
