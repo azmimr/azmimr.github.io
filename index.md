@@ -38,6 +38,8 @@ Usually delivered once a week direct to your mailbox. Awesome time savers!
 * [O'Reilly Newsletter](http://www.oreilly.com/data/newsletter.html)
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
 * [SuperDataScience](https://www.superdatascience.com/)
+* [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Subscription+welcome&utm_content=profile-name&utm_medium=email&utm_source=confirmation)
+* [Data Elixir](https://dataelixir.com/)
 
 ### Blogs
 
