@@ -6,7 +6,7 @@
 
 ## Work Projects
 
-List of projects for work. Deliberately generalized to remove any potentially sensive information.
+List of projects for work. Deliberately generalized to remove any potentially sensitive information.
 
 * For a well-known American technology company. Project uses descriptive statistics to quantify the performance difference in manufacturing and end-product functionality when there is a supply chain change for one of the key functional components. This is done for a particular product family that encompases more than 200 SKUs (Store Keeping Units). This is done to validate that the new material supply does not cause any unexpected effects in the fairly mature production lines.
 * *In progress* Same company as above. Using descriptive analytical techniques to model and understand an intermittent type of failure in the manufacturing process. This is done on the same product line as the previous project.
