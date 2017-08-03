@@ -47,3 +47,4 @@ Usually delivered once a week direct to your mailbox. Awesome time savers!
 
 ### Podcasts
 * [Super Data Science Podcast](https://www.superdatascience.com/podcast/)
+* [No So Standard Deviations](http://nssdeviations.com/)
